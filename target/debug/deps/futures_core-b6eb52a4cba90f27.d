@@ -1,0 +1,11 @@
+/home/hekuta/Codes/web_hello_tide/target/debug/deps/futures_core-b6eb52a4cba90f27.rmeta: /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/lib.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/future.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/stream.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/mod.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/poll.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/mod.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/atomic_waker.rs
+
+/home/hekuta/Codes/web_hello_tide/target/debug/deps/futures_core-b6eb52a4cba90f27.d: /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/lib.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/future.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/stream.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/mod.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/poll.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/mod.rs /home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/atomic_waker.rs
+
+/home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/lib.rs:
+/home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/future.rs:
+/home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/stream.rs:
+/home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/mod.rs:
+/home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/poll.rs:
+/home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/mod.rs:
+/home/hekuta/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/atomic_waker.rs:
